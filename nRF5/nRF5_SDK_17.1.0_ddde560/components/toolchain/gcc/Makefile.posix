@@ -1,0 +1,3 @@
+GNU_INSTALL_ROOT := /c/GCC_ARM/10.3.2021.10/bin/
+GNU_VERSION ?= 15.3.1
+GNU_PREFIX ?= arm-none-eabi
