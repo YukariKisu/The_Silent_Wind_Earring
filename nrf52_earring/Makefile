@@ -61,6 +61,7 @@ CFLAGS := -Wall -g3 -O0 -mthumb -mcpu=cortex-m4 \
   -I../nRF5/nRF5_SDK_17.1.0_ddde560\components\libraries\delay 
 
 
+
 LDFLAGS = -T blinky_gcc_nrf52.ld -Wl,-Map=_build/nrf52832_xxaa/nrf52832_xxaa.map
 LD := $(CC)
 OBJCOPY := arm-none-eabi-objcopy
