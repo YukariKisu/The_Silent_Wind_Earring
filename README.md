@@ -20,7 +20,7 @@ More about the concept: 🌐 [yukarikisu.com/concept](https://yukarikisu.com/en/
 
 ---
 
-📦 Components
+📦 Components & Key Features
 --
 
 The Anemometer (ESP32DevKitC)
@@ -59,14 +59,14 @@ Operating System: Windows
 
 ---
 
-✏️ Daily Works
+📆 Daily Works
 --
 
 Daily Documentation and progress logs are available on Instagram  (Jul-Sep2025) → [Daily Works](https://www.instagram.com/yukari.kisu)
 
 ---
 
-🗎 Technical Document
+📓 Technical Document
 --
 
 This document explains all the technical aspects of the project, including schematics, communication flow, hardware design, and detailed implementation of each node.
