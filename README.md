@@ -1,4 +1,6 @@
-🌬 The Silent Wind - Wind is invisible, yet always present. Sometimes it lashes out as a storm; other times, it wraps around us as a gentle breeze.
+🌬 The Silent Wind 
+
+ Wind is invisible, yet always present. Sometimes it lashes out as a storm; other times, it wraps around us as a gentle breeze.
 
 ---
 💡Purpose
@@ -29,3 +31,18 @@ Receive wind data from the scarf and controls LED blinking.
 ---
 
 🚀 Project Overview
+
+![Earring Overview](https://yukarikisu.com/docs/work1/img/SystemArchitecture.jpg)
+
+---
+
+✏️ Daily Works
+
+Daily Documentation and progress logs are available on Instagram  (Jul-Sep2025) → [Daily Works](https://www.instagram.com/yukari.kisu)
+
+---
+
+🗎 Technical Document
+
+This document explains all the technical aspects of the project, including schematics, communication flow, hardware design, and detailed implementation of each node.
+-> [Read the full Technical Document](http://www.yukarikisu.com/docs/work1/index1.html)
