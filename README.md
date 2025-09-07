@@ -45,15 +45,19 @@ Receive wind data from the scarf and controls LED blinking.
 --
 
 
-SDK: ESP-IDF v4.4
+SDK: nRF5 SDK v17.1.0
 
-Toolchain: xtensa-esp32-elf.idf.py
+Build System: Manual Makefile-based build (no IDE used)
 
-Flash tool: idf.py flash
+Toolchain: arm-none-eabi-gcc
+
+Flash tool: nrfjprog
 
 Development Environment: Visual Studio Code
 
-Operating System: Ubuntu
+Operating System: Windows
+
+
 
 ---
 
