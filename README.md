@@ -45,17 +45,15 @@ Receive wind data from the scarf and controls LED blinking.
 --
 
 
-SDK: nRF5 SDK v17.1.0
+SDK: ESP-IDF v4.4
 
-Build System: Manual Makefile-based build (no IDE used)
+Toolchain: xtensa-esp32-elf.idf.py
 
-Toolchain: arm-none-eabi-gcc
-
-Flash tool: nrfjprog
+Flash tool: idf.py flash
 
 Development Environment: Visual Studio Code
 
-Operating System: Windows
+Operating System: Ubuntu
 
 ---
 
@@ -77,3 +75,16 @@ This document explains all the technical aspects of the project, including schem
 🎥 Visuals
 --
 
+📹 Project Demo
+--
+[Watch the video](https://youtube.com/shorts/8MpDWLDMlbw)
+
+🧣 Scarf
+--
+![Scarf Outline](https://www.yukarikisu.com/docs/work1/img/Scarf.jpg)
+![Hand Structure](https://www.yukarikisu.com/docs/work1/img/Scarf2.jpg)
+
+💍 Earring
+--
+![Earring Shape](https://www.yukarikisu.com/docs/work1/img/Earring.jpg)
+![Earring Bottom](https://www.yukarikisu.com/docs/work1/img/Earring2.jpg)
